@@ -1,0 +1,4 @@
+!sudo apt install tesseract-ocr
+!pip install pytesseract
+!pip install opencv-contrib-python==3.4.13.47 --force-reinstall
+!pip3 install pymongo[srv]
